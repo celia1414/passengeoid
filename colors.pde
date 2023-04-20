@@ -1,0 +1,11 @@
+color bg = color(254, 255, 240);
+color rose = color(250, 215, 223);
+color gold = color(250, 223, 124);
+color sunset = color(255, 192, 162);
+color violet = color(202, 161, 245);
+color turquo = color(179, 227, 213, 80);
+color pink_a = color(255, 152, 152, 100);
+color orange = color(245, 207, 146);
+color red = color(255, 0, 0);
+color sun_a = color(255, 255, 162, 200);
+color green = color(116, 141, 160);
